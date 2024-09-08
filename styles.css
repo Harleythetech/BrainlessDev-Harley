@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@160..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+*{
+    font-family: "Readex Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-variation-settings:"HEXP" 0;
+}
+
+body{
+    background:radial-gradient(circle at bottom left, rgb(92, 94, 76) 5%, rgba(2,0,36,1) 50%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+.navbg{
+    background-color: #170b30;
+}
+
+
+.flex-fill{
+    flex: 1 1 auto;
+}
+.pixel-font{
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+.sec-text{
+    font-weight: 400;
+}
