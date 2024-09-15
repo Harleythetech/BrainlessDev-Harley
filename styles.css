@@ -9,9 +9,11 @@
 }
 
 body{
-    background:radial-gradient(circle at bottom left, rgb(92, 94, 76) 5%, rgba(2,0,36,1) 50%);
+    background-image: url(./sources/Images/bg.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 
 }
 
